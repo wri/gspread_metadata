@@ -1,0 +1,7 @@
+.idea/modules.xml
+.idea/dictionaries/Thomas_Maschler.xml
+*.xml
+connect.pyc
+*.json
+.idea/gspred_connect.iml
+*.name
